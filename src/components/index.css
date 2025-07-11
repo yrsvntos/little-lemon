@@ -1,0 +1,57 @@
+.menu-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu ul {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0rem !important;
+}
+.menu ul li{
+    margin-left: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.menu ul li a{
+    color: #000;
+    margin-bottom: 0rem !important;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.text-amarelo{
+    color: #F4CE14;
+}
+.nav-link:hover {
+color: #F4CE14;
+transition: 1s all;
+}
+
+/* Quando o link está ativo (rota atual) */
+.nav-link.active {
+color: #F4CE14;
+font-weight: bold;
+transition: 0.5s all;
+}
+
+.footer-bg{
+    background: #495E57;
+    color: #fff;
+}
+
+.footer-bg ul li {
+    margin-bottom: 15px;
+}
+#footer ul{
+    padding-left: 0rem !important;
+    color: #fff;
+}
+#footer ul li a {
+    color: #fff;
+}

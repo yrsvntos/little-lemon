@@ -1,0 +1,27 @@
+.banner{
+    background: #495E57;
+    color: #fff;
+    height: 350px;
+}
+
+.banner-img img{
+    height: 250px;
+    object-fit: cover;
+}
+
+.text-verde{
+    color: #495E57;
+}
+
+.text-amarelo{
+    color: #F4CE14;
+}
+
+.gallery {
+    background: #D9D9D9;
+    color: #000;
+}
+.gallery-content figure img{
+    height: 250px;
+    object-fit: cover;
+}

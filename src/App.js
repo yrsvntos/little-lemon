@@ -1,9 +1,13 @@
-import Header from "./components/Header";
+
+import RoutesApp from './routes';
+import  './index.css';
+
+
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <RoutesApp />
     </div>
   );
 }

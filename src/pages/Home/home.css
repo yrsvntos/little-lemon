@@ -1,0 +1,35 @@
+.banner{
+    background: #495E57;
+    color: #fff;
+    height: 350px;
+}
+
+.banner img{
+    height: 350px;
+    object-fit: cover;
+}
+
+.text-yellow{
+    color: #F4CE14;
+}
+
+.btn-yellow{
+    background: #F4CE14;
+    color: #fff;
+}
+
+.btn-yellow:hover{
+    background: #ceaf11;
+    color: #fff;
+}
+
+.bg-menu-box{
+    background: #ECECEC;
+    color: #000;
+}
+
+
+.menu-img img{
+    height: 250px;
+    object-fit: cover;
+}
